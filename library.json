@@ -1,0 +1,13 @@
+{
+	"name": "Segger RTT",
+	"description": "Real time logging tool for J-Link",
+	"version": "0.1.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Carmis/segger-rtt.git"
+	},
+	"keywords": "Segger, RTT",
+	"export": {
+		"include": "SEGGER_RTT/RTT/*.h"
+	}
+}
